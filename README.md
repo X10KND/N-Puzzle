@@ -6,7 +6,7 @@ This project is made to play N Puzzle or [Sliding Puzzle](https://en.wikipedia.o
 
 ## Instructions
 
-Run `index.html`. Alternatively, you can see it on [x10knd.github.io/puzzle/](x10knd.github.io/puzzle/).
+Run `index.html`. Alternatively, you can see it on [x10knd.github.io/puzzle/](https://x10knd.github.io/puzzle/).
 
 Change colours in the `puzzle.js` file.
 
